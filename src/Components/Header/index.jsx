@@ -5,7 +5,7 @@ function Header() {
     return (
         <div>
             <header>
-                <Link className='logo' to="/">App</Link>
+                <Link className='logo' to="/">AppFilmes</Link>
                 <Link className='favoritos' to="/favoritos">Meus filmes</Link>
             </header>
         </div>
